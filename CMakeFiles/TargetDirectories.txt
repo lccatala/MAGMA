@@ -1,0 +1,3 @@
+/Users/alpasfly/Desktop/MAGMA/CMakeFiles/rebuild_cache.dir
+/Users/alpasfly/Desktop/MAGMA/CMakeFiles/edit_cache.dir
+/Users/alpasfly/Desktop/MAGMA/CMakeFiles/MAGMA.dir
